@@ -1,5 +1,10 @@
 # WebSocketを利用してリアルタイムでGPIOを制御する
 
+ssid=PicoPWM
+
+password=12345678
+
+IP=192.168.4.1
 
 
 https://github.com/user-attachments/assets/8b7a6d24-a129-4077-a73a-60aabc266426
