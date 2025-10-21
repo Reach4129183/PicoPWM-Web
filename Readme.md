@@ -1,5 +1,11 @@
 # WebSocketを利用してリアルタイムでGPIOを制御する
 
+
+
+https://github.com/user-attachments/assets/8b7a6d24-a129-4077-a73a-60aabc266426
+
+
+
 下記のプロンプトでChatGPTが出力したコードに変更を加えたものです。
 ```
 MicroPythonでRaspiPico2Wを制御する
